@@ -2,6 +2,8 @@ Repo covers different MCDM methods
 - AHP
 - TOPSIS
   
+Have covered common python libraries for MCDM
+
 Books and Reference Papers
 
 1. Papathanasiou, J., & Ploskas, N. (2018). Multiple Criteria Decision Aid: Methods, Example s and Python Implementations, vol. 136. Cham: Springer International Publishing.
