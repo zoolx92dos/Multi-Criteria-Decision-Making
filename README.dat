@@ -8,3 +8,4 @@ Have covered common python libraries for MCDM
 Books and Reference Papers
 
 1. Papathanasiou, J., & Ploskas, N. (2018). Multiple Criteria Decision Aid: Methods, Example s and Python Implementations, vol. 136. Cham: Springer International Publishing.
+2. Kizielewicz, B., Shekhovtsov, A., & Sałabun, W. (2023). pymcdm—The universal library for solving multi-criteria decision-making problems. SoftwareX, 22, 101368.
