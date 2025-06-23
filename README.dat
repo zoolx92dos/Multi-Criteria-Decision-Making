@@ -2,6 +2,8 @@ Repo covers different MCDM methods
 
 MCDA - TOPSIS, VIKOR, COPRAS, PROMETHEE I & II, COMET, SPOTIS, ARAS, COCOSO, CODAS, EDAS, MABAC, MAIRCA, MARCOS, OCRA, MOORA, RIM, ERVD, PROBID, WSM, WPM, WPM, WASPAS, RAM
 
+Weighting Method: STD, MEREC, CRITIC, CILOS, IDOCRIW, AHP, RANCOM
+
 Have covered common python libraries for MCDM
 1. PyMCDM - covers many popular MCDM methods
 2. Check: https://pypi.org/project/pymcdm/
